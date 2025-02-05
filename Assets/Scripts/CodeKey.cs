@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UntityEngine.UI;
+using UnityEngine.UI;
 
 public class CodeKey : MonoBehaviour
 {
