@@ -1,0 +1,41 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Avoid auto-generated local files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Rider / VS Code
+.idea/
+.vscode/
+*.code-workspace
+
+# ============ #
+# OS Generated #
+# ============ #
+.DS_Store
+Thumbs.db
+
+# ============ #
+# Packages     #
+# ============ #
+Packages/
+
